@@ -1,4 +1,4 @@
-# penguin_classification_heroku
+# Palmer Penguins Classification WebApp
  Penguin Classification WebApp deployed in Heroku. 
 
 The web app has been built using Streamlit and deployed in Heroku. 
